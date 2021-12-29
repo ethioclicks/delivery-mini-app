@@ -1,0 +1,14 @@
+.header-border{
+    background-color: black !important;
+}
+.links{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem;
+    font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-decoration: none;
+}
+.links:hover{
+    color: #fff;
+}
